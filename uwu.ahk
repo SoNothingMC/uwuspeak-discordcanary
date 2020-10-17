@@ -31,7 +31,7 @@ if WinActive("ahk_exe DiscordCanary.exe")
 
 $enter::
 if WinActive("ahk_exe DiscordCanary.exe")
-	send {space}uwu~{enter}
+	send {space}meow~{enter}
 	else send {enter}
 	return
 
